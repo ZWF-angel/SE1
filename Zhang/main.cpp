@@ -1,3 +1,4 @@
+//This program is just an educational example.
 #include <iostream>
 
 using namespace std;
