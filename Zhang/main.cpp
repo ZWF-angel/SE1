@@ -1,4 +1,5 @@
 //This program is just an educational example.
+// Author: Zhang WenFeng, §±-161
 #include <iostream>
 
 using namespace std;
