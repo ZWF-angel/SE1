@@ -12,5 +12,6 @@ int main()
     cout << "A + B = " << a + b << endl;
     cout << "A * B = " << a * b << endl;
     cout << "A - B = " << a - b << endl;
+    cout << "A / B = " << a / b << endl;
     return 0;
 }
