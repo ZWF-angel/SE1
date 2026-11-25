@@ -4,3 +4,11 @@
 *.depend
 Zhang/bin/
 Zhang/obj/
+
+# Doxygen: сгенерированная документация не должна попадать в репозиторий
+Complex/html/
+Complex/latex/
+Complex/rtf/
+Complex/xml/
+Complex/man/
+Complex/doxygen.log
